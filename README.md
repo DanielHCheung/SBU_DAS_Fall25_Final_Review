@@ -6,11 +6,11 @@ AMS572-Data Analysis
 
 CSE582-Data Structure and Algorithms
 
-only 100% self-made resources will be publich on this repo.
+only 100% self-made resources will be publich on this repo. Why? If not 100%, it's against the copyright.
 
 I attach the reply from ChatGPT.
 
-# Direct copies of slides / homework / tests
+## Direct copies of slides / homework / tests
 
 These are 100% copyrighted by the professor or the university.
 
@@ -27,7 +27,7 @@ Uploading them publicly = copyright violation
 MIT license does not give you permission to redistribute someone else’s copyrighted material.
 
 
-# If the materials are 100% yours (your LaTeX notes, your code, your own explanations)
+## If the materials are 100% yours (your LaTeX notes, your code, your own explanations)
 Then yes — you can put them on GitHub publicly and license them MIT.
 
 You are the creator → you control the copyright → you choose the license.
@@ -42,7 +42,7 @@ Rewrite everything in your own words.
 
 Do NOT include the original problem statements unless professor or university explicitly allows it.
 
-# A clean way to do it
+## A clean way to do it
 
 You can safely publish if you do:
 
