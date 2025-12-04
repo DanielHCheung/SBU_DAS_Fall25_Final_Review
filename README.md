@@ -1,5 +1,11 @@
 # SBU_DAS_Fall25_Final_Review
 
+AMS507-Probability
+
+AMS572-Data Analysis
+
+CSE582-Data Structure and Algorithms
+
 only 100% self-made resources will be publich on this repo.
 
 I attach the reply from ChatGPT.
